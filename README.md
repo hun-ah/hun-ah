@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">I'm a full stack developer from Toronto, Canada</h3>
 
-- 👀 I’m interested in **all things fitness, software development and problem solving!**
+👀 I’m interested in **all things fitness, software development and problem solving!**
 
-- 👨‍💻 All of my projects are available at [hannahmachado.com](hannahmachado.com)
+👨‍💻 All of my projects are available at [hannahmachado.com](hannahmachado.com)
 
-- 📫 How to reach me **hannahmachado@yahoo.ca**
+📫 How to reach me **hannahmachado@yahoo.ca**
 
-- ⚡ Fun fact **I've worked as a personal trainer for 10 years!**
+⚡ Fun fact **I've worked as a personal trainer for 10 years!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
