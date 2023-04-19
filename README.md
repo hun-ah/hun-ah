@@ -5,7 +5,7 @@
 
 👨‍💻 All of my projects are available at [hannahmachado.com](hannahmachado.com)
 
-📫 How to reach me **hannahmachado@yahoo.ca**
+📫 How to reach me **hannahwohlmachado@gmail.com**
 
 ⚡ Fun fact **I've worked as a personal trainer for 10 years!**
 
