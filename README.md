@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
-<h3 align="center">I'm a full stack developer from Toronto, Canada</h3>
+<h3 align="center">I'm a software developer from Toronto, Canada</h3>
 
 👀 I’m interested in **all things fitness, software development and problem solving!**
 
