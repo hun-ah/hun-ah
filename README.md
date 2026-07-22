@@ -3,6 +3,6 @@
 
 👀 I’m interested in **all things fitness, software development and problem solving!**
 
-👨‍💻 All of my projects are available at [hannahmachado.com](hannahmachado.com)
+👨‍💻 Check out my website [hannahmachado.com](hannahmachado.com)
 
 📫 How to reach me **hannahwohlmachado@gmail.com**
